@@ -6,9 +6,9 @@ import App_94 from './App_94';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <BrowserRouter>
+  <HashRouter>
     <App_94 />
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById('root')
 );
 
