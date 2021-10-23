@@ -1,3 +1,4 @@
+import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Homepage_94 from './pages/Homepage_94';
 import ShopTwo_94 from './pages/ShopTwoPage_94';

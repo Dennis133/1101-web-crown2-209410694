@@ -279,3 +279,93 @@ export default Directory_94;
 - local 端 Chrome 執行結果截圖
 - Github page 執行結果截圖
   重要相關的原始程式碼
+
+---
+
+5. 將目前所完成的 React code 放入 Github 中，建立的 repository 要顯示 id 資訊。要繳交
+
+- repository URL 及截圖，可以看到你的原始程式碼，
+- Github page 設定之截圖
+- Github page URL 及截圖，可以執行 React 程式
+  以上截圖，都必須有網址列，如 HW1，上面會顯示 github page 的資訊。
+
+repository URL 及截圖，可以看到你的原始程式碼，
+![](./img/221731.png)
+Github page 設定之截圖
+![](./img/221749.png)
+Github page URL 及截圖，可以執行 React 程式
+以上截圖，都必須有網址列，如 HW1，上面會顯示 github page 的資訊。
+![](./img/221811.png)
+
+---
+
+6. (local) 加入 header，能顯示 logo 及選單，
+   -- 點選 logo，會回到主頁 (路由 /)
+   -- 點選 Shop，會到 Shop Overview Page (路由 /shop_xx)，要能顯示上面第 4 題的內容
+   -- 點選 Contact，會到 Contact Page (路由 /contact_xx)
+   -- 點選 Contact，會到 Signin Page (路由 /signin_xx)，要繳交
+
+- local 端 Chrome /shop_xx 執行結果截圖
+- local 端 Chrome /contact 執行結果截圖
+- 跟路由 /shop_xx 有關的原始程式碼
+
+local 端 Chrome /shop_xx 執行結果截圖
+![](./img/215240.png)
+local 端 Chrome /contact 執行結果截圖
+![](./img/215720.png)
+跟路由 /shop_xx 有關的原始程式碼
+
+```
+import React from 'react';
+
+const ShopTwoPage_94 = () => {
+  return <h2>Shop Two Page</h2>;
+};
+
+export default ShopTwoPage_94;
+```
+
+---
+
+7. (heroku) 在 Heroku 上要能顯示第 6 題的 header。要繳交
+
+- Heroku 上 Chrome /shop_xx 執行結果截圖
+
+---
+
+8. (local) 首頁 category 五筆資料，能夠透過你個人放在 Heroku /api_xx/category_xx 取得。如果無法成功，可以先用老師的測試。
+
+https://crown1101.herokuapp.com/api_xx/category_xx
+
+要繳交
+
+- local 執行結果
+- Directory2_xx 相關程式截圖
+- Heroku app URL
+- Heroku Database URL
+
+local 執行結果
+![3.](https://i.imgur.com/XhX9eEi.png)
+
+Directory2_xx 相關程式截圖
+![](./img/222025.png)
+
+---
+
+9. (Github page) 上第 8 題，請將程式碼發佈到 github page，並能直接從 Github page 執行，自 Heroku /api_xx/category_xx 取得 category 五筆資料，要繳交
+
+- Github repo URL
+- Github page URL
+- Chrome 圖片有關 Github page 執行路由 / 結果
+- Chrome 圖片有關 Github page 執行路由 /shop_xx 結果
+
+Github repo URL
+[https://github.com/Dennis133/1101-web-crown2-209410694](https://github.com/Dennis133/1101-web-crown2-209410694)
+
+Github page URL
+[https://github.com/Dennis133/1101-web-crown2-209410694/settings/pages](https://github.com/Dennis133/1101-web-crown2-209410694/settings/pages)
+
+Chrome 圖片有關 Github page 執行路由 / 結果
+![](./img/221811.png)
+Chrome 圖片有關 Github page 執行路由 /shop_xx 結果
+![](./img/222311.png)

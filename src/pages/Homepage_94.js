@@ -1,11 +1,11 @@
 import React from 'react';
 
-import Directory_94 from '../components/Directory_94';
+import Directory2_94 from '../components/Directory2_94';
 
 const Homepage_94 = () => {
   return (
     <div className='homepage'>
-      <Directory_94 />
+      <Directory2_94 />
     </div>
   );
 };
