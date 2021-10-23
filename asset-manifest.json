@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/1101-web-crown2-209410694/static/css/main.1074d65d.chunk.css",
-    "main.js": "/1101-web-crown2-209410694/static/js/main.dd84b258.chunk.js",
-    "main.js.map": "/1101-web-crown2-209410694/static/js/main.dd84b258.chunk.js.map",
-    "runtime-main.js": "/1101-web-crown2-209410694/static/js/runtime-main.cb1979ab.js",
-    "runtime-main.js.map": "/1101-web-crown2-209410694/static/js/runtime-main.cb1979ab.js.map",
-    "static/js/2.9c58a56d.chunk.js": "/1101-web-crown2-209410694/static/js/2.9c58a56d.chunk.js",
-    "static/js/2.9c58a56d.chunk.js.map": "/1101-web-crown2-209410694/static/js/2.9c58a56d.chunk.js.map",
-    "static/js/3.0ccb0e2c.chunk.js": "/1101-web-crown2-209410694/static/js/3.0ccb0e2c.chunk.js",
-    "static/js/3.0ccb0e2c.chunk.js.map": "/1101-web-crown2-209410694/static/js/3.0ccb0e2c.chunk.js.map",
-    "index.html": "/1101-web-crown2-209410694/index.html",
-    "static/css/main.1074d65d.chunk.css.map": "/1101-web-crown2-209410694/static/css/main.1074d65d.chunk.css.map",
-    "static/js/2.9c58a56d.chunk.js.LICENSE.txt": "/1101-web-crown2-209410694/static/js/2.9c58a56d.chunk.js.LICENSE.txt",
-    "static/media/crown.3a4e2b15.svg": "/1101-web-crown2-209410694/static/media/crown.3a4e2b15.svg"
+    "main.css": "./static/css/main.1074d65d.chunk.css",
+    "main.js": "./static/js/main.ac2f6d7c.chunk.js",
+    "main.js.map": "./static/js/main.ac2f6d7c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3068038f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3068038f.js.map",
+    "static/js/2.4b0370ad.chunk.js": "./static/js/2.4b0370ad.chunk.js",
+    "static/js/2.4b0370ad.chunk.js.map": "./static/js/2.4b0370ad.chunk.js.map",
+    "static/js/3.3516ebb6.chunk.js": "./static/js/3.3516ebb6.chunk.js",
+    "static/js/3.3516ebb6.chunk.js.map": "./static/js/3.3516ebb6.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.1074d65d.chunk.css.map": "./static/css/main.1074d65d.chunk.css.map",
+    "static/js/2.4b0370ad.chunk.js.LICENSE.txt": "./static/js/2.4b0370ad.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "./static/media/crown.3a4e2b15.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb1979ab.js",
-    "static/js/2.9c58a56d.chunk.js",
+    "static/js/runtime-main.3068038f.js",
+    "static/js/2.4b0370ad.chunk.js",
     "static/css/main.1074d65d.chunk.css",
-    "static/js/main.dd84b258.chunk.js"
+    "static/js/main.ac2f6d7c.chunk.js"
   ]
 }
