@@ -290,12 +290,14 @@ export default Directory_94;
   以上截圖，都必須有網址列，如 HW1，上面會顯示 github page 的資訊。
 
 repository URL 及截圖，可以看到你的原始程式碼，
-![](./img/221731.png)
+[https://github.com/Dennis133/1101-web-crown2-209410694](https://github.com/Dennis133/1101-web-crown2-209410694)
+![](./img/https://i.imgur.com/gWkwoTg.png.png)
 Github page 設定之截圖
-![](./img/221749.png)
+![](https://i.imgur.com/CH9Frnj.png)
 Github page URL 及截圖，可以執行 React 程式
 以上截圖，都必須有網址列，如 HW1，上面會顯示 github page 的資訊。
-![](./img/221811.png)
+[https://dennis133.github.io/1101-web-crown2-209410694/#/](https://dennis133.github.io/1101-web-crown2-209410694/#/)
+![](https://i.imgur.com/6IH2OJC.jpg)
 
 ---
 
@@ -310,9 +312,9 @@ Github page URL 及截圖，可以執行 React 程式
 - 跟路由 /shop_xx 有關的原始程式碼
 
 local 端 Chrome /shop_xx 執行結果截圖
-![](./img/215240.png)
+![](https://i.imgur.com/7KlNyle.png)
 local 端 Chrome /contact 執行結果截圖
-![](./img/215720.png)
+![](https://i.imgur.com/PhzrXAU.png)
 跟路由 /shop_xx 有關的原始程式碼
 
 ```
@@ -335,8 +337,6 @@ export default ShopTwoPage_94;
 
 8. (local) 首頁 category 五筆資料，能夠透過你個人放在 Heroku /api_xx/category_xx 取得。如果無法成功，可以先用老師的測試。
 
-https://crown1101.herokuapp.com/api_xx/category_xx
-
 要繳交
 
 - local 執行結果
@@ -348,7 +348,10 @@ local 執行結果
 ![3.](https://i.imgur.com/XhX9eEi.png)
 
 Directory2_xx 相關程式截圖
-![](./img/222025.png)
+![](https://i.imgur.com/xV9Hw4H.png)
+
+Heroku Database URL
+[https://heroku-crown94.herokuapp.com/api_94/category_94](https://heroku-crown94.herokuapp.com/api_94/category_94)
 
 ---
 
@@ -366,6 +369,6 @@ Github page URL
 [https://github.com/Dennis133/1101-web-crown2-209410694/settings/pages](https://github.com/Dennis133/1101-web-crown2-209410694/settings/pages)
 
 Chrome 圖片有關 Github page 執行路由 / 結果
-![](./img/221811.png)
+![](./img/https://i.imgur.com/6IH2OJC.jpg.png)
 Chrome 圖片有關 Github page 執行路由 /shop_xx 結果
-![](./img/222311.png)
+![](https://i.imgur.com/fVtxMmV.png)
